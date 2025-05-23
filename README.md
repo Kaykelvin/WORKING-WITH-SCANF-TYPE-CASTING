@@ -1,1 +1,1 @@
-
+This Git repository contains a collection of C programs designed to perform fundamental business and financial calculations, including average sales, commission, depreciation, annual salary estimation, and customer revenue aggregation. Each program utilizes user input through scanf() and applies typecasting where necessary to ensure accurate results.
